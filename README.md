@@ -27,15 +27,15 @@
 
 ```javascript
 const developer = {
-  name:        "[Your Name]",
+  name:        "Leogy Santillan",
   role:        "Full Stack Developer",
   location:    "🌏 Philippines",
-  code:        ["JavaScript", "TypeScript", "PHP", "Python"],
+  code:        ["JavaScript", "TypeScript", "PHP"],
   techStack: {
     frontend:  ["React", "Next.js", "Vue.js", "HTML5", "CSS3", "TailwindCSS"],
     backend:   ["Node.js", "NestJS", "Laravel", "Express.js"],
     databases: ["MongoDB", "MySQL", "MSSQL"],
-    tools:     ["Git", "Docker", "Postman", "VS Code"],
+    tools:     ["Git", "Postman", "VS Code", "Claude Chat AI"],
   },
   currentlyLearning: "Always something new 🚀",
   funFact:     "I debug with console.log and I'm not ashamed 😄",
