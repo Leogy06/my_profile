@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=false&random=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Vue+Enthusiast+%F0%9F%8E%A8;Node.js+%7C+NestJS+Backend+Wizard+%E2%9A%A1;Laravel+%7C+PHP+Craftsman+%F0%9F%90%98;Database+Whisperer+%F0%9F%97%84%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=false&random=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Vue+Enthusiast+%F0%9F%8E%A8;Node.js+%7C+NestJS+Laravel+Backend+Wizard+%E2%9A%A1;Laravel+%7C+PHP+Craftsman+%F0%9F%90%98;Database+Whisperer+%F0%9F%97%84%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
